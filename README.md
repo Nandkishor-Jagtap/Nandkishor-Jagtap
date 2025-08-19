@@ -1,16 +1,26 @@
-## Hi there 👋
+# 👋 Hello World, I'm [Nandkishor Jagtap]
 
-<!--
-**Nandkishor-Jagtap/Nandkishor-Jagtap** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **DevOps Engineer | Cloud Enthusiast | Lifelong Learner**
 
-Here are some ideas to get you started:
+🎓 Graduate — [Pune University]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🌟 About Me
+- 🔭 Currently diving into **Kubernetes, Terraform, GitOps, and Cloud-Native tools**  
+- 🤝 Always open to **collaboration on DevOps, Cloud Infrastructure, and Open Source** projects  
+- 🎯 Learning **Cloud Security, Service Mesh, and Advanced Kubernetes**  
+- 💡 Ask me about **CI/CD, IaC, Container Orchestration, and Automation**  
+- 📫 Reach out: **your.email@example.com**  
+- ⚡ Fun fact: *I believe automation is an art... and yes, I script my daily tasks too!*  
+
+---
+
+## 🤝 Connect With Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/nandkishorjagtap/)  
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/Nandkishor-Jagtap)  
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](n.r.jagtap786@gmail.com)  
+
+---
+
+✨ *“Keep learning, keep building, keep sharing.”*
