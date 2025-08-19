@@ -1,4 +1,4 @@
-# 👋 Hello World, I'm [Nandkishor Jagtap]
+# 👋 Hello World, I'm Nandkishor Jagtap
 
 🚀 **DevOps Engineer | Cloud Enthusiast | Lifelong Learner**
 
