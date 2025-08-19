@@ -11,7 +11,7 @@
 - 🤝 Always open to **collaboration on DevOps, Cloud Infrastructure, and Open Source** projects  
 - 🎯 Learning **Cloud Security, Service Mesh, and Advanced Kubernetes**  
 - 💡 Ask me about **CI/CD, IaC, Container Orchestration, and Automation**  
-- 📫 Reach out: **your.email@example.com**  
+- 📫 Reach out: **n.r.jagtap786@gmail.com**  
 - ⚡ Fun fact: *I believe automation is an art... and yes, I script my daily tasks too!*  
 
 ---
