@@ -2,7 +2,7 @@
 
 🚀 **DevOps Engineer | Cloud Enthusiast | Lifelong Learner**
 
-🎓 Graduate — [SPPU Pune University]
+🎓 Graduate — SPPU Pune University
 
 ---
 
